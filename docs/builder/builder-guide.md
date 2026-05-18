@@ -9,7 +9,7 @@ Builder，专家级工程师，负责：
 - 主动实现 [[Vx-design]].md 中未提及的设计，除非明确会产生漏洞
 
 ## Builder Rules
-- 只根据对应的 `Sx-design.md` 实现当前 Stage。
+- 只根据对应的 `Vx-design.md` 实现当前 Stage。
 - 必须完成必要单测、集测和 smoke test，并记录验证结果。
 - 不得提前实现后续 Stage 功能。
 - 不得主动实现设计文档未提及的功能，除非不实现会产生明显漏洞或数据损坏风险。
